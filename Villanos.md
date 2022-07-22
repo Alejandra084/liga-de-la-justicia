@@ -8,4 +8,4 @@
 5. Freddy Krueger (Pesadilla en Elm Street)
 6. Jack Torrance (El resplandor)
 7. Palpatine (Star Wars)
-8. Agente Smith (Matrix)
+8. 
